@@ -52,23 +52,6 @@ Queens listings tend to have higher longitude values.
 
 Visualization Used: Correlation heatmap
 
-📌 Next Steps
-
-Investigate seasonal trends (if date-based data is available).
-
-Perform outlier analysis to see how extreme values affect patterns.
-
-Use machine learning models to predict prices based on available features.
-
-📁 Repository Structure
-
-📂 Airbnb-EDA
- ├── 📊 datasets/         # Raw and cleaned datasets
- ├── 📜 notebooks/        # Jupyter notebooks for analysis
- ├── 📄 images/           # Plots and visualizations
- ├── 📄 README.md         # Project overview (this file)
- ├── 📄 EDA_report.md     # Detailed findings (this document)
-
 🎯 Conclusion
 
 This analysis provides initial insights into Airbnb listings. Further exploration of time-based trends and machine learning could improve pricing predictions.
