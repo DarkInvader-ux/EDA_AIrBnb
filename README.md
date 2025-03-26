@@ -51,7 +51,8 @@ Manhattan listings tend to have higher latitude values.
 Queens listings tend to have higher longitude values.
 
 Visualization Used: Correlation heatmap
-📌 **View the full notebook on Kaggle**: [Airbnb EDA on Kaggle]([https://www.kaggle.com/code/alpozkayikci/airbnb-analysis})
+
+📌 **View the full notebook on Kaggle**: [Airbnb EDA on Kaggle](https://www.kaggle.com/code/alpozkayikci/airbnb-analysis)
 
 
 🎯 Conclusion
